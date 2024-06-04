@@ -5,4 +5,4 @@ Now, see the last few lines, it's line 48.
 Click on the line 48, (number)
 This adds a breakpoint.
 Refresh the page, and you should see the flag
-![image](https://files.catbox.moe/lj0g20.png)
+![image](https://github.com/shiroroc/THM---Walking-An-Application/assets/166932167/863b14b2-ba1f-4718-8456-52b0d89e716e)
